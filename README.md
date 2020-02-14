@@ -1,9 +1,9 @@
-<img align="right" width="100" height="100" src="https://github.com/milespratt/avatar-maker-plus/blob/master/src/assets/user.png?raw=true">
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/milespratt/avatar-maker-plus/development/src/assets/user.png">
 
 # Avatar Maker Plus
 
 An easy to use avatar creation component with facial detection for React apps. View the [demo](https://avatar-maker-plus.netlify.com).
 
 <!-- <p align="center"> -->
-  <img align="center" width="500" height="500" src="https://github.com/milespratt/avatar-maker-plus/blob/master/src/assets/screenshot.png?raw=true">
+  <img align="center" height="500" src="https://raw.githubusercontent.com/milespratt/avatar-maker-plus/development/src/assets/screenshot.png">
 <!-- </p> -->
