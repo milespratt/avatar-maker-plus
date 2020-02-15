@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/2ad655942c945f41a56e/maintainability)](https://codeclimate.com/github/milespratt/avatar-maker-plus/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/2ad655942c945f41a56e/test_coverage)](https://codeclimate.com/github/milespratt/avatar-maker-plus/test_coverage)
+
 <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/milespratt/avatar-maker-plus/development/src/assets/user.png">
 
 # Avatar Maker Plus
